@@ -1,5 +1,5 @@
 # Titanic Survival
-This is my submission to Kaggle's [Machine Learning from Disaster](https://www.kaggle.com/c/titanic) competition. Using Titanic passenger data (name, age, gender, socio-economic class, etc), I built a predictive model to answer the question “what sorts of people were more likely to survive?”
+This is my submission to Kaggle's [Machine Learning from Disaster](https://www.kaggle.com/c/titanic) competition. Using Titanic passenger data (name, age, gender, socio-economic class, etc), I built a predictive model to answer the question “What sorts of people were more likely to survive?”
 
 ## Summary
 
